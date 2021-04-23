@@ -1,0 +1,53 @@
+*{
+scroll-behavior: smooth;
+}
+
+body{
+background-image: url("https://th.bing.com/th/id/R97f1db26f8318f80fc9cd4314447d38c?rik=aEP2FmceVZPYeQ&pid=ImgRaw");
+background-repeat: repeat;
+font-family: 'Inconsolata', monospace;
+}
+
+h2{
+color: red;
+text-align: center;
+}
+
+h5{
+  text-align: center;
+  color: White;
+}
+
+p{
+  color: White;
+  text-align: center;
+}
+.navigation{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+
+.lienNav{
+  font-size: 20px;
+  color: White;
+  text-decoration: none;
+}
+
+table{
+  color: White;
+  align: center;
+}
+
+ul{
+  color: white;
+}
+
+h6{
+  color: white;
+}
+
+a:active {
+  color: red;
+}
